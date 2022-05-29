@@ -52,6 +52,11 @@ class Life {
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=clevrf0x&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevrf0x&layout=compact&theme=gruvbox&langs_count=10&hide_border=true" />
+</p>
+
 <br>
 
 ![Favas Activity Graph](https://activity-graph.herokuapp.com/graph?username=clevrf0x&custom_title=Favas's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
