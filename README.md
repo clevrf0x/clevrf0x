@@ -54,7 +54,7 @@ class Life {
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevrf0x&layout=compact&theme=gruvbox&langs_count=10&hide_border=true" />
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevrf0x&layout=compact&theme=gruvbox&langs_count=10&hide_border=true" />
 </p>
 
 <br>
