@@ -48,6 +48,9 @@ class MyProfile():
         'Video Games',
         'Cyber Security'
      ]
+  
+  def __str__(self):
+    return self.name
 
 ```
 
