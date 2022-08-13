@@ -12,35 +12,45 @@ Hi! I'm Favas M, a student currently living in Kerala, India. I'm learning progr
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=java&logoColor=c58545&labelColor=282828">
 </div>
 </p>
 
-```java
-class Life {
-  String name, username, location, linkedin, email;
-  String currentlyLearning[] = new String[5];
-  String wantToLearn[] = new String[5];
-  String intrests[] = new String[3];
-  String askMeAbout[] = new String[3];
-  String funFact[] = new String[2];
-
-  Life() {
-    name = "Favas M";
-    username = "clevrf0x";
-    location = "Calicut";
-    linkedin = "https://www.linkedin.com/in/favasm72";
-    email = "favasm72@gmail.com";
+```python
+class MyProfile():
+  
+  def __init__(self):
+    self.name = 'Favas M'
+    self.username = 'clevrf0x'
+    self.location = 'Calicut'
+    self.socials = {
+       'LinkedIn': 'https://www.linkedin.com/in/favasm72',
+       'Email': 'favasm72@gmail.com'
+     }
+     
+    self.currently_learning = [
+        'Python',
+        'Django',
+        'PostgrSQL',
+        'React',
+        'REST API'
+     ]
     
-    currentlyLearning = ["MongoDB", "ExpressJS", "TypeScript", "NodeJS", "Angular"];
-    wantToLearn = ["Rust", "WebAssembly", "Golang", "UnrealEngine"];
-    intrests = ["Cyber Security", "Video Games", "TV Shows"];
-    askMeAbout = ["Linux", "Cyber Security", "Any other tech related topics"];
-    funFact = ["I usually spend most my time watching TV Shows or playing Video games", "I tend to Procastinate alot"];
-  }
-}
+    self.intrested_in = [
+        'Rust',
+        'Golang',
+        'Webassembly',
+        'Unreal Engine'
+     ]
+    
+    self.hobbies = [
+        'Distro Hopping',
+        'TV Shows',
+        'Video Games',
+        'Cyber Security'
+     ]
 
 ```
+
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
