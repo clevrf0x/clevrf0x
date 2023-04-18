@@ -30,7 +30,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=clevrf0x&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=clevrf0x&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=clevrf0x&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=clevrf0x&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
@@ -41,6 +41,7 @@
 <!--WakaTime-Start-->
 <pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>0 secs</br><strong>Timespan:           </strong>0 days</br><strong>Daily average:      </strong>0 hr(s) 0 min(s)</pre>
 <!--WakaTime-End-->
+<img width="98%" height="200px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=clevrf0x&langs_count=5&theme=darcula&hide_border=true&bg_color=00000000">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
