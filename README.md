@@ -29,14 +29,6 @@ class MyProfile():
        'LinkedIn': 'https://www.linkedin.com/in/favasm72',
        'Email': 'favasm72@gmail.com'
      }
-     
-    self.currently_learning = [
-        'Python',
-        'Django',
-        'PostgrSQL',
-        'React',
-        'REST API'
-     ]
     
     self.intrested_in = [
         'Rust',
@@ -57,9 +49,6 @@ class MyProfile():
 
 ```
 
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
 ## My Statistics
 
 <br/>
@@ -70,7 +59,9 @@ class MyProfile():
 </p>
 
 <p align="center">
-<img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevrf0x&layout=compact&theme=gruvbox&langs_count=10&hide_border=true" />
+<img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevrf0x&layout=compact&theme=gruvbox&langs_count=4&hide_border=true" />
 </p>
 
 <br>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
