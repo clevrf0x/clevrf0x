@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Favas M</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clevrf0x&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="clevrf0x" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=clevrf0x&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="clevrf0x" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clevrf0x&label=Profile%20views&color=0e75b6&style=flat" alt="clevrf0x" /> </p>
 <p align="left"> <a href="https://twitter.com/clevrf0x" target="blank"><img src="https://img.shields.io/twitter/follow/clevrf0x?logo=twitter&style=for-the-badge" alt="clevrf0x" /></a> </p>
@@ -41,7 +41,7 @@
 <!--WakaTime-Start-->
 <pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>0 secs</br><strong>Timespan:           </strong>0 days</br><strong>Daily average:      </strong>0 hr(s) 0 min(s)</pre>
 <!--WakaTime-End-->
-<img width="98%" height="200px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=clevrf0x&langs_count=5&theme=darcula&hide_border=true&bg_color=00000000">
+<div align="center"><img height="200px" align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=clevrf0x&langs_count=5&theme=darcula&hide_border=true&bg_color=00000000"></div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
