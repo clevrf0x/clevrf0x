@@ -38,6 +38,8 @@
 <hr>
 
 ### ⏰ WakaTime Stats
+<!--WakaTime-Start-->
+<!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
