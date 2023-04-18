@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **favasm72@gmail.com**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/clevrf0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clevrf0x" height="30" width="40" /></a>
@@ -32,6 +34,8 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=clevrf0x&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=clevrf0x&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
+
+<hr>
 
 ### ⏰ WakaTime Stats
 
