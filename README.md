@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clevrf0x&label=Profile%20views&color=0e75b6&style=flat" alt="clevrf0x" /> </p>
 <p align="left"> <a href="https://twitter.com/clevrf0x" target="blank"><img src="https://img.shields.io/twitter/follow/clevrf0x?logo=twitter&style=for-the-badge" alt="clevrf0x" /></a> </p>
 
-- 🌱 I’m currently learning **a famous language named after a plant fungus.**
+- 🌱 I’m currently learning Golang
 
 - 👨‍💻 All of my projects are available at [https://github.com/clevrf0x](https://github.com/clevrf0x)
 
-- 💬 Ask me about **python, django, flask**
+- 💬 Ask me about **cybersecurity, programming, games**
 
 - 📫 How to reach me **favasm72@gmail.com**
 
