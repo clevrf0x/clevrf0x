@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=clevrf0x&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="clevrf0x" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clevrf0x&label=Profile%20views&color=0e75b6&style=flat" alt="clevrf0x" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=clevrf0x&label=Profile%20views&color=0e75b6&style=flat" alt="clevrf0x" /> </p> -->
 <p align="left"> <a href="https://twitter.com/clevrf0x" target="blank"><img src="https://img.shields.io/twitter/follow/clevrf0x?logo=twitter&style=for-the-badge" alt="clevrf0x" /></a> </p>
 
 - 🌱 I’m currently learning Golang
