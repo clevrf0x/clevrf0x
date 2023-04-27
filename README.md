@@ -51,6 +51,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/clevrf0x/AdventOfCode/pull/2) in [clevrf0x/AdventOfCode](https://github.com/clevrf0x/AdventOfCode)
+1. ❗️ Opened issue [#1876](https://github.com/benjaminsampica/benjaminsampica/issues/1876) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
