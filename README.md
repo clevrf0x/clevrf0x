@@ -40,7 +40,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>JavaScript                9 hrs █████████░░░░░░░░░░░░░░░░  39.12 %</br>Python            7 hrs 39 mins ████████░░░░░░░░░░░░░░░░░  33.25 %</br>Lua               2 hrs 15 mins ██░░░░░░░░░░░░░░░░░░░░░░░   9.83 %</br>Go                 1 hr 47 mins ██░░░░░░░░░░░░░░░░░░░░░░░   7.80 %</br>Other                   46 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>38 hrs 5 mins</br><strong>Timespan:           </strong>11 days</br><strong>Daily average:      </strong>3 hr(s) 10 min(s)</pre>
+<pre><h2>Last 7 Days</h2>JavaScript                9 hrs █████████░░░░░░░░░░░░░░░░  39.15 %</br>Python            7 hrs 39 mins ████████░░░░░░░░░░░░░░░░░  33.28 %</br>Lua               2 hrs 15 mins ██░░░░░░░░░░░░░░░░░░░░░░░   9.84 %</br>Go                 1 hr 47 mins ██░░░░░░░░░░░░░░░░░░░░░░░   7.81 %</br>Other                   46 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>38 hrs 5 mins</br><strong>Timespan:           </strong>12 days</br><strong>Daily average:      </strong>2 hr(s) 55 min(s)</pre>
 <!--WakaTime-End-->
 <div align="center"><img height="200px" align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=clevrf0x&langs_count=5&theme=darcula&hide_border=true&bg_color=00000000"></div>
 
