@@ -50,6 +50,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1876](https://github.com/benjaminsampica/benjaminsampica/issues/1876) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. 🎉 Merged PR [#1](https://github.com/clevrf0x/converge-web/pull/1) in [clevrf0x/converge-web](https://github.com/clevrf0x/converge-web)
 <!--END_SECTION:activity-->
 
