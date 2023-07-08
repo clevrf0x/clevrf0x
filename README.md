@@ -50,6 +50,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/clevrf0x/converge-web/issues/4) in [clevrf0x/converge-web](https://github.com/clevrf0x/converge-web)
+1. ❗ Opened issue [#6](https://github.com/clevrf0x/converge-web/issues/6) in [clevrf0x/converge-web](https://github.com/clevrf0x/converge-web)
 <!--END_SECTION:activity-->
 
