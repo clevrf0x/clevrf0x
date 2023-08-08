@@ -76,6 +76,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/clevrf0x/converge-web/issues/6) in [clevrf0x/converge-web](https://github.com/clevrf0x/converge-web)
+1. 🎉 Merged PR [#1](https://github.com/clevrf0x/locudu/pull/1) in [clevrf0x/locudu](https://github.com/clevrf0x/locudu)
 <!--END_SECTION:activity-->
 
