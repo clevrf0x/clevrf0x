@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 </h1>
 
-- 🌱 Currently learning Golang
+- 🌱 Currently learning Golang and Dart. 
 
 - 💬 Ask me about **cybersecurity, programming, games**
 
