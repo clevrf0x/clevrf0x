@@ -66,7 +66,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>YAML                    35 mins ████████░░░░░░░░░░░░░░░░░  34.74 %</br>Python                  29 mins ███████░░░░░░░░░░░░░░░░░░  28.94 %</br>JavaScript              21 mins █████░░░░░░░░░░░░░░░░░░░░  20.81 %</br>Batchfile               12 mins ███░░░░░░░░░░░░░░░░░░░░░░  12.25 %</br>Ezhil                     1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>314 hrs 30 mins</br><strong>Timespan:           </strong>173 days</br><strong>Daily average:      </strong>1 hr(s) 48 min(s)</pre>
+<pre><h2>Last 7 Days</h2>YAML                1 hr 3 mins ██████████░░░░░░░░░░░░░░░  43.25 %</br>Python                  29 mins █████░░░░░░░░░░░░░░░░░░░░  20.49 %</br>JavaScript              21 mins ███░░░░░░░░░░░░░░░░░░░░░░  14.74 %</br>Batchfile               12 mins ██░░░░░░░░░░░░░░░░░░░░░░░   8.67 %</br>Ezhil                    8 mins █░░░░░░░░░░░░░░░░░░░░░░░░   6.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>315 hrs 13 mins</br><strong>Timespan:           </strong>174 days</br><strong>Daily average:      </strong>1 hr(s) 48 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
