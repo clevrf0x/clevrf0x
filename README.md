@@ -66,7 +66,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Go                 1 hr 17 mins ██████░░░░░░░░░░░░░░░░░░░  23.69 %</br>YAML               1 hr 15 mins █████░░░░░░░░░░░░░░░░░░░░  22.97 %</br>JavaScript              44 mins ███░░░░░░░░░░░░░░░░░░░░░░  13.61 %</br>Docker                  23 mins █░░░░░░░░░░░░░░░░░░░░░░░░   7.08 %</br>Bash                    23 mins █░░░░░░░░░░░░░░░░░░░░░░░░   7.02 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>319 hrs 3 mins</br><strong>Timespan:           </strong>177 days</br><strong>Daily average:      </strong>1 hr(s) 47 min(s)</pre>
+<pre><h2>Last 7 Days</h2>JavaScript         1 hr 38 mins █████░░░░░░░░░░░░░░░░░░░░  22.86 %</br>Go                 1 hr 17 mins ████░░░░░░░░░░░░░░░░░░░░░  18.07 %</br>YAML               1 hr 17 mins ████░░░░░░░░░░░░░░░░░░░░░  17.98 %</br>Bash                1 hr 7 mins ████░░░░░░░░░░░░░░░░░░░░░  15.69 %</br>Docker                  23 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.40 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>320 hrs 45 mins</br><strong>Timespan:           </strong>178 days</br><strong>Daily average:      </strong>1 hr(s) 47 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
