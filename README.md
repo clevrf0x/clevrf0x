@@ -76,6 +76,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#805](https://github.com/maxcountryman/flask-login/issues/805) in [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login)
+1. 🗣 Commented on [#805](https://github.com/maxcountryman/flask-login/issues/805#issuecomment-1770876247) in [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login)
 <!--END_SECTION:activity-->
 
