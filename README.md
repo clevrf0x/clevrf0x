@@ -76,6 +76,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/clevrf0x/locudu/pull/1) in [clevrf0x/locudu](https://github.com/clevrf0x/locudu)
+1. ❗ Opened issue [#805](https://github.com/maxcountryman/flask-login/issues/805) in [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login)
 <!--END_SECTION:activity-->
 
