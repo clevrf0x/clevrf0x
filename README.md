@@ -66,7 +66,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Python            4 hrs 10 mins ███████████████████░░░░░░  78.23 %</br>CSV                     28 mins ██░░░░░░░░░░░░░░░░░░░░░░░   8.95 %</br>Bash                    27 mins ██░░░░░░░░░░░░░░░░░░░░░░░   8.62 %</br>JavaScript              13 mins █░░░░░░░░░░░░░░░░░░░░░░░░   4.14 %</br>JSON                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>406 hrs 29 mins</br><strong>Timespan:           </strong>251 days</br><strong>Daily average:      </strong>1 hr(s) 36 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Python            3 hrs 21 mins ████████████████████░░░░░  80.89 %</br>CSV                     28 mins ███░░░░░░░░░░░░░░░░░░░░░░  11.50 %</br>Bash                    18 mins ██░░░░░░░░░░░░░░░░░░░░░░░   7.61 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>407 hrs 7 mins</br><strong>Timespan:           </strong>252 days</br><strong>Daily average:      </strong>1 hr(s) 36 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
