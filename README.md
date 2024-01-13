@@ -76,6 +76,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#805](https://github.com/maxcountryman/flask-login/issues/805#issuecomment-1770876247) in [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login)
+1. 🗣 Commented on [#1213](https://github.com/GSConnect/gnome-shell-extension-gsconnect/issues/1213#issuecomment-1890690472) in [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
 <!--END_SECTION:activity-->
 
