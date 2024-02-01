@@ -66,7 +66,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Python            7 hrs 26 mins ████████████████████████░  96.81 %</br>Other                    7 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63 %</br>Git Config               3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86 %</br>TOML                      1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42 %</br>Text                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>429 hrs 24 mins</br><strong>Timespan:           </strong>287 days</br><strong>Daily average:      </strong>1 hr(s) 29 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Python            3 hrs 48 mins █████████████████████████  99.85 %</br>Bash                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>429 hrs 24 mins</br><strong>Timespan:           </strong>288 days</br><strong>Daily average:      </strong>1 hr(s) 29 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
