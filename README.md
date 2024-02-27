@@ -76,6 +76,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/icedman/search-light/issues/64#issuecomment-1890844059) in [icedman/search-light](https://github.com/icedman/search-light)
+1. 🗣 Commented on [#1213](https://github.com/GSConnect/gnome-shell-extension-gsconnect/issues/1213#issuecomment-1967535033) in [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
 <!--END_SECTION:activity-->
 
