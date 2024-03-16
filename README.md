@@ -66,7 +66,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Dart              4 hrs 18 mins ██████████████████████░░░  88.44 %</br>Bash                    21 mins █░░░░░░░░░░░░░░░░░░░░░░░░   7.40 %</br>Markdown                10 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43 %</br>YAML                      1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61 %</br>Other                    0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>481 hrs 11 mins</br><strong>Timespan:           </strong>331 days</br><strong>Daily average:      </strong>1 hr(s) 26 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Dart               2 hrs 8 mins █████████████████████░░░░  87.34 %</br>Bash                    15 mins ██░░░░░░░░░░░░░░░░░░░░░░░  10.86 %</br>Other                    2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38 %</br>Markdown                 0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24 %</br>YAML                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.10 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>481 hrs 23 mins</br><strong>Timespan:           </strong>332 days</br><strong>Daily average:      </strong>1 hr(s) 26 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
