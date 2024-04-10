@@ -66,7 +66,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>JavaScript        7 hrs 25 mins ████████████████░░░░░░░░░  66.63 %</br>Python             3 hrs 9 mins ███████░░░░░░░░░░░░░░░░░░  28.32 %</br>JSON                    19 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96 %</br>Bash                     6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.00 %</br>Other                    5 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>517 hrs 52 mins</br><strong>Timespan:           </strong>356 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Python            3 hrs 40 mins ██████████████░░░░░░░░░░░  57.75 %</br>JavaScript        2 hrs 27 mins █████████░░░░░░░░░░░░░░░░  38.55 %</br>Bash                     6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76 %</br>Other                    5 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48 %</br>Text                      1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>518 hrs 37 mins</br><strong>Timespan:           </strong>357 days</br><strong>Daily average:      </strong>1 hr(s) 26 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
