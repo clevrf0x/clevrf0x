@@ -66,7 +66,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Python             6 hrs 3 mins ███████████████████░░░░░░  75.92 %</br>SCSS                    56 mins ███░░░░░░░░░░░░░░░░░░░░░░  11.70 %</br>TypeScript              48 mins ██░░░░░░░░░░░░░░░░░░░░░░░  10.03 %</br>Docker                   5 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13 %</br>YAML                     2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>543 hrs 33 mins</br><strong>Timespan:           </strong>379 days</br><strong>Daily average:      </strong>1 hr(s) 25 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Python            4 hrs 12 mins █████████████████░░░░░░░░  68.69 %</br>SCSS                    56 mins ███░░░░░░░░░░░░░░░░░░░░░░  15.24 %</br>TypeScript              48 mins ███░░░░░░░░░░░░░░░░░░░░░░  13.07 %</br>Docker                   5 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47 %</br>YAML                     2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>543 hrs 36 mins</br><strong>Timespan:           </strong>380 days</br><strong>Daily average:      </strong>1 hr(s) 25 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
