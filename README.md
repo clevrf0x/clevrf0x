@@ -76,6 +76,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1213](https://github.com/GSConnect/gnome-shell-extension-gsconnect/issues/1213#issuecomment-1967535033) in [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
+1. ❗ Opened issue [#3385](https://github.com/Alexays/Waybar/issues/3385) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
 <!--END_SECTION:activity-->
 
