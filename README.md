@@ -76,6 +76,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3385](https://github.com/Alexays/Waybar/issues/3385) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+1. 🗣 Commented on [#3385](https://github.com/Alexays/Waybar/issues/3385#issuecomment-2198108337) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
 <!--END_SECTION:activity-->
 
