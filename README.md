@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Go                 1 hr 19 mins ███████░░░░░░░░░░░░░░░░░░  29.78 %</br>SQL                     50 mins ████░░░░░░░░░░░░░░░░░░░░░  18.77 %</br>HTML                    25 mins ██░░░░░░░░░░░░░░░░░░░░░░░   9.49 %</br>gitignore               24 mins ██░░░░░░░░░░░░░░░░░░░░░░░   9.13 %</br>Makefile                22 mins ██░░░░░░░░░░░░░░░░░░░░░░░   8.37 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>903 hrs 55 mins</br><strong>Timespan:           </strong>617 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Go                4 hrs 22 mins █████████████░░░░░░░░░░░░  54.45 %</br>SQL                1 hr 17 mins ████░░░░░░░░░░░░░░░░░░░░░  15.95 %</br>HTML                    25 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.26 %</br>gitignore               24 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.06 %</br>Makefile                22 mins █░░░░░░░░░░░░░░░░░░░░░░░░   4.64 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>907 hrs 30 mins</br><strong>Timespan:           </strong>618 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
