@@ -67,6 +67,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/initcrew/initcrew/issues/1#issuecomment-2263609147) in [initcrew/initcrew](https://github.com/initcrew/initcrew)
+1. 🔒 Closed issue [#1](https://github.com/initcrew/initcrew/issues/1) in [initcrew/initcrew](https://github.com/initcrew/initcrew)
 <!--END_SECTION:activity-->
 
