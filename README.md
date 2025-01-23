@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>TypeScript        8 hrs 58 mins ███████████████████████░░  93.65 %</br>Go                      20 mins █░░░░░░░░░░░░░░░░░░░░░░░░   3.55 %</br>SQL                     14 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   2.60 %</br>CSS                       1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.20 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>945 hrs 56 mins</br><strong>Timespan:           </strong>644 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
+<pre><h2>Last 7 Days</h2>TypeScript        4 hrs 21 mins ████████████████████░░░░░  79.57 %</br>Go                      21 mins █░░░░░░░░░░░░░░░░░░░░░░░░   6.70 %</br>Docker                  16 mins █░░░░░░░░░░░░░░░░░░░░░░░░   4.95 %</br>SQL                     14 mins █░░░░░░░░░░░░░░░░░░░░░░░░   4.56 %</br>Bash                     8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>946 hrs 26 mins</br><strong>Timespan:           </strong>645 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
