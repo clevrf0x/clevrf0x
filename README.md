@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>TypeScript         1 hr 21 mins ██████████████████░░░░░░░  73.10 %</br>Docker                  16 mins ███░░░░░░░░░░░░░░░░░░░░░░  14.53 %</br>Bash                     8 mins █░░░░░░░░░░░░░░░░░░░░░░░░   7.43 %</br>Text                     2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83 %</br>Markdown                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>946 hrs 26 mins</br><strong>Timespan:           </strong>648 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
+<pre><h2>Last 7 Days</h2>TypeScript              34 mins █████████████░░░░░░░░░░░░  53.18 %</br>Docker                  16 mins ██████░░░░░░░░░░░░░░░░░░░  25.28 %</br>Bash                     8 mins ███░░░░░░░░░░░░░░░░░░░░░░  12.93 %</br>Text                     2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19 %</br>Markdown                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>946 hrs 26 mins</br><strong>Timespan:           </strong>649 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
