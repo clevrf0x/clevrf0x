@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Docker                  16 mins █████████████░░░░░░░░░░░░  54.00 %</br>Bash                     8 mins ███████░░░░░░░░░░░░░░░░░░  27.63 %</br>Text                     2 mins █░░░░░░░░░░░░░░░░░░░░░░░░   6.81 %</br>Markdown                  1 min █░░░░░░░░░░░░░░░░░░░░░░░░   3.61 %</br>YAML                      1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>946 hrs 26 mins</br><strong>Timespan:           </strong>650 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
+<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>946 hrs 26 mins</br><strong>Timespan:           </strong>651 days</br><strong>Daily average:      </strong>1 hr(s) 27 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
