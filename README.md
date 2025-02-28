@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>YAML                    10 mins ███████████████████████░░  93.83 %</br>Python                   0 secs █░░░░░░░░░░░░░░░░░░░░░░░░   6.17 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>952 hrs 43 mins</br><strong>Timespan:           </strong>680 days</br><strong>Daily average:      </strong>1 hr(s) 23 min(s)</pre>
+<pre><h2>Last 7 Days</h2>YAML                    10 mins ███████████████████████░░  93.83 %</br>Python                   0 secs █░░░░░░░░░░░░░░░░░░░░░░░░   6.17 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>952 hrs 43 mins</br><strong>Timespan:           </strong>681 days</br><strong>Daily average:      </strong>1 hr(s) 23 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
