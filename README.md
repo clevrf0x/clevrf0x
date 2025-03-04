@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>952 hrs 43 mins</br><strong>Timespan:           </strong>684 days</br><strong>Daily average:      </strong>1 hr(s) 23 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Other                    2 mins ██████████████████░░░░░░░  72.57 %</br>Lua                      0 secs █████░░░░░░░░░░░░░░░░░░░░  21.14 %</br>TOML                     0 secs █░░░░░░░░░░░░░░░░░░░░░░░░   4.00 %</br>JSON                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>952 hrs 46 mins</br><strong>Timespan:           </strong>685 days</br><strong>Daily average:      </strong>1 hr(s) 23 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
