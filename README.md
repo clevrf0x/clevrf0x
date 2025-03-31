@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>953 hrs 55 mins</br><strong>Timespan:           </strong>711 days</br><strong>Daily average:      </strong>1 hr(s) 20 min(s)</pre>
+<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>953 hrs 55 mins</br><strong>Timespan:           </strong>712 days</br><strong>Daily average:      </strong>1 hr(s) 20 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
