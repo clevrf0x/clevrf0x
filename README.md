@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Lua               2 hrs 44 mins █████░░░░░░░░░░░░░░░░░░░░  22.41 %</br>HTML              2 hrs 38 mins █████░░░░░░░░░░░░░░░░░░░░  21.65 %</br>Python            2 hrs 24 mins █████░░░░░░░░░░░░░░░░░░░░  19.68 %</br>conf                    55 mins ██░░░░░░░░░░░░░░░░░░░░░░░   7.59 %</br>Bash                    43 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.94 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>969 hrs 55 mins</br><strong>Timespan:           </strong>724 days</br><strong>Daily average:      </strong>1 hr(s) 20 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Lua               3 hrs 24 mins ██████░░░░░░░░░░░░░░░░░░░  24.65 %</br>HTML              2 hrs 52 mins █████░░░░░░░░░░░░░░░░░░░░  20.76 %</br>Python            2 hrs 24 mins ████░░░░░░░░░░░░░░░░░░░░░  17.37 %</br>conf                    56 mins █░░░░░░░░░░░░░░░░░░░░░░░░   6.84 %</br>Bash                    50 mins █░░░░░░░░░░░░░░░░░░░░░░░░   6.08 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>971 hrs 33 mins</br><strong>Timespan:           </strong>725 days</br><strong>Daily average:      </strong>1 hr(s) 20 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
