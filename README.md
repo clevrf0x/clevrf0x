@@ -57,7 +57,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Markdown                 0 secs █████████████████████████ 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>971 hrs 39 mins</br><strong>Timespan:           </strong>733 days</br><strong>Daily average:      </strong>1 hr(s) 19 min(s)</pre>
+<pre><h2>Last 7 Days</h2>YAML                     0 secs ███████████████░░░░░░░░░░  63.44 %</br>Markdown                 0 secs ████░░░░░░░░░░░░░░░░░░░░░  18.28 %</br>Docker                   0 secs ████░░░░░░░░░░░░░░░░░░░░░  18.28 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>971 hrs 40 mins</br><strong>Timespan:           </strong>734 days</br><strong>Daily average:      </strong>1 hr(s) 19 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
