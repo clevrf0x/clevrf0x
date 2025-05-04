@@ -17,7 +17,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Zig                      0 secs █████████████████████████ 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>973 hrs 51 mins</br><strong>Timespan:           </strong>745 days</br><strong>Daily average:      </strong>1 hr(s) 18 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Zig                      0 secs █████████████████████████ 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>973 hrs 51 mins</br><strong>Timespan:           </strong>746 days</br><strong>Daily average:      </strong>1 hr(s) 18 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
