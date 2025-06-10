@@ -17,7 +17,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>E-mail                  19 mins ███████████████████████░░  92.67 %</br>Text                      1 min █░░░░░░░░░░░░░░░░░░░░░░░░   7.33 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>976 hrs 31 mins</br><strong>Timespan:           </strong>782 days</br><strong>Daily average:      </strong>1 hr(s) 14 min(s)</pre>
+<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>976 hrs 31 mins</br><strong>Timespan:           </strong>783 days</br><strong>Daily average:      </strong>1 hr(s) 14 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
