@@ -17,7 +17,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Markdown                 0 secs █████████████████████████ 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,002 hrs 11 mins</br><strong>Timespan:           </strong>832 days</br><strong>Daily average:      </strong>1 hr(s) 12 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Go                 1 hr 14 mins █████████████████████░░░░  87.29 %</br>Other                    5 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.84 %</br>Makefile                 4 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.02 %</br>Git Config                1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   1.30 %</br>Markdown                 0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,004 hrs 42 mins</br><strong>Timespan:           </strong>833 days</br><strong>Daily average:      </strong>1 hr(s) 12 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
