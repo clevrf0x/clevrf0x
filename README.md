@@ -17,7 +17,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>C#                 1 hr 52 mins ████████████████░░░░░░░░░  65.42 %</br>JSON                    52 mins ███████░░░░░░░░░░░░░░░░░░  30.60 %</br>XSLT                     3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91 %</br>Markdown                 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43 %</br>VBScript                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,046 hrs 11 mins</br><strong>Timespan:           </strong>893 days</br><strong>Daily average:      </strong>1 hr(s) 10 min(s)</pre>
+<pre><h2>Last 7 Days</h2>TOML                     0 secs █████████████████████████ 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,046 hrs 11 mins</br><strong>Timespan:           </strong>894 days</br><strong>Daily average:      </strong>1 hr(s) 10 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
