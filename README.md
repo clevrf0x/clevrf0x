@@ -17,7 +17,7 @@
 
 ### ⏰ WakaTime Stats:
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>C#                2 hrs 43 mins ██████████████░░░░░░░░░░░  59.11 %</br>INI                        1 hr █████░░░░░░░░░░░░░░░░░░░░  21.75 %</br>JSON                    28 mins ██░░░░░░░░░░░░░░░░░░░░░░░  10.44 %</br>Other                   17 mins █░░░░░░░░░░░░░░░░░░░░░░░░   6.20 %</br>Markdown                 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,059 hrs 32 mins</br><strong>Timespan:           </strong>906 days</br><strong>Daily average:      </strong>1 hr(s) 10 min(s)</pre>
+<pre><h2>Last 7 Days</h2>C#                2 hrs 43 mins ███████████░░░░░░░░░░░░░░  46.01 %</br>INI                        1 hr ████░░░░░░░░░░░░░░░░░░░░░  16.93 %</br>JavaScript              48 mins ███░░░░░░░░░░░░░░░░░░░░░░  13.70 %</br>JSON                    31 mins ██░░░░░░░░░░░░░░░░░░░░░░░   8.85 %</br>Other                   17 mins █░░░░░░░░░░░░░░░░░░░░░░░░   4.83 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,060 hrs 55 mins</br><strong>Timespan:           </strong>907 days</br><strong>Daily average:      </strong>1 hr(s) 10 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
