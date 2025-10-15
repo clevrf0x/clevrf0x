@@ -32,6 +32,6 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/initcrew/initcrew/issues/1) in [initcrew/initcrew](https://github.com/initcrew/initcrew)
+1. 💪 Opened PR [#1](undefined) in [clevrf0x/webflyx](https://github.com/clevrf0x/webflyx)
 <!--END_SECTION:activity-->
 
