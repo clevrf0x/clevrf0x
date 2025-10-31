@@ -29,9 +29,9 @@
 <!--END_SECTION:waka-->
 
 
-### :zap: Recent Activity:
+ <!-- ### :zap: Recent Activity: -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [clevrf0x/webflyx](https://github.com/clevrf0x/webflyx)
+ <!-- 1. 💪 Opened PR [#1](undefined) in [clevrf0x/webflyx](https://github.com/clevrf0x/webflyx) -->
 <!--END_SECTION:activity-->
 
