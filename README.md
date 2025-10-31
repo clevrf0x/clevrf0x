@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **favasm72@gmail.com**
 
-- 🌐 Read my blogs <a href="https://favas.dev" target="_blank"> here.</a>
+- 🌐 Read my blogs <a href="https://favas.blog" target="_blank"> here.</a>
 
 <p align="left">
 <a href="https://twitter.com/clevrf0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clevrf0x" height="30" width="40" /></a>
@@ -14,11 +14,11 @@
 </p>
 
 <!-- <hr> -->
-<h2>Boot.dev Profile</h2>
+<!-- <h2>Boot.dev Profile</h2>
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/36e41abf-04b9-4b3b-b378-8a28f3755669/thumbnail" >
-</p>
+</p> -->
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
