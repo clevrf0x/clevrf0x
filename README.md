@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Markdown           1 hr 47 mins ████████████████████████░  97.50 %</br>Makefile                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91 %</br>Text                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.90 %</br>YAML                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36 %</br>gitignore                0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,090 hrs 53 mins</br><strong>Timespan:           </strong>933 days</br><strong>Daily average:      </strong>1 hr(s) 10 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Markdown           1 hr 54 mins ████████████████████████░  97.65 %</br>Makefile                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85 %</br>Text                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84 %</br>YAML                     0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34 %</br>gitignore                0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,092 hrs 28 mins</br><strong>Timespan:           </strong>934 days</br><strong>Daily average:      </strong>1 hr(s) 10 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
