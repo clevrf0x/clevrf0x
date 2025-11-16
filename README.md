@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Markdown            3 hrs 1 min ████████████████████░░░░░  79.59 %</br>Python                  19 mins ██░░░░░░░░░░░░░░░░░░░░░░░   8.59 %</br>Twig                    12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.39 %</br>HTML                     7 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.40 %</br>INI                      6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,094 hrs 48 mins</br><strong>Timespan:           </strong>941 days</br><strong>Daily average:      </strong>1 hr(s) 9 min(s)</pre>
+<pre><h2>Last 7 Days</h2>INI                      6 mins ████████████████████████░  98.80 %</br>dosini                   0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   1.20 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,094 hrs 48 mins</br><strong>Timespan:           </strong>942 days</br><strong>Daily average:      </strong>1 hr(s) 9 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
