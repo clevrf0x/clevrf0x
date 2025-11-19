@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>INI                      6 mins ████████████████████████░  98.80 %</br>dosini                   0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   1.20 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,094 hrs 48 mins</br><strong>Timespan:           </strong>944 days</br><strong>Daily average:      </strong>1 hr(s) 9 min(s)</pre>
+<pre><h2>Last 7 Days</h2>C#                       3 mins ██████████████████░░░░░░░  75.42 %</br>INI                       1 min ██████░░░░░░░░░░░░░░░░░░░  24.58 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,094 hrs 53 mins</br><strong>Timespan:           </strong>945 days</br><strong>Daily average:      </strong>1 hr(s) 9 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
