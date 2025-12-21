@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>1,096 hrs 43 mins</br><strong>Timespan:           </strong>976 days</br><strong>Daily average:      </strong>1 hr(s) 7 min(s)</pre>
+<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>1,096 hrs 43 mins</br><strong>Timespan:           </strong>977 days</br><strong>Daily average:      </strong>1 hr(s) 7 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
