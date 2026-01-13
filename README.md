@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>1,100 hrs 54 mins</br><strong>Timespan:           </strong>999 days</br><strong>Daily average:      </strong>1 hr(s) 6 min(s)</pre>
+<pre><h2>Last 7 Days</h2>TypeScript               2 mins ████████████░░░░░░░░░░░░░  50.35 %</br>JSON                      1 min ██████░░░░░░░░░░░░░░░░░░░  24.11 %</br>TSConfig                 0 secs ███░░░░░░░░░░░░░░░░░░░░░░  15.45 %</br>JavaScript               0 secs ██░░░░░░░░░░░░░░░░░░░░░░░   7.71 %</br>Git Config               0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   1.50 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,102 hrs 37 mins</br><strong>Timespan:           </strong>1000 days</br><strong>Daily average:      </strong>1 hr(s) 5 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
