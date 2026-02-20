@@ -32,6 +32,6 @@
  <!-- ### :zap: Recent Activity: -->
 
 <!--START_SECTION:activity-->
- <!-- 1. 💪 Opened PR [#1](undefined) in [clevrf0x/webflyx](https://github.com/clevrf0x/webflyx) -->
+1. 🎉 Merged PR [#1](https://github.com/clevrf0x/flow_admin_mobile/pull/1) in [clevrf0x/flow_admin_mobile](https://github.com/clevrf0x/flow_admin_mobile)
 <!--END_SECTION:activity-->
 
