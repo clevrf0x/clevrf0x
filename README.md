@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Python                  41 mins ███████████░░░░░░░░░░░░░░  43.57 %</br>Dart                    22 mins ██████░░░░░░░░░░░░░░░░░░░  24.14 %</br>Bash                    15 mins ████░░░░░░░░░░░░░░░░░░░░░  15.94 %</br>Git Config              14 mins ███░░░░░░░░░░░░░░░░░░░░░░  15.44 %</br>Other                    0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,109 hrs 48 mins</br><strong>Timespan:           </strong>1049 days</br><strong>Daily average:      </strong>1 hr(s) 3 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Python                  39 mins █████████████░░░░░░░░░░░░  53.79 %</br>Bash                    15 mins █████░░░░░░░░░░░░░░░░░░░░  20.62 %</br>Git Config              14 mins █████░░░░░░░░░░░░░░░░░░░░  19.97 %</br>Dart                     3 mins █░░░░░░░░░░░░░░░░░░░░░░░░   4.79 %</br>Other                    0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░   0.80 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,109 hrs 48 mins</br><strong>Timespan:           </strong>1050 days</br><strong>Daily average:      </strong>1 hr(s) 3 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
