@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Python                  24 mins ████████████████░░░░░░░░░  64.16 %</br>YAML                     5 mins ███░░░░░░░░░░░░░░░░░░░░░░  14.07 %</br>Bash                     4 mins ███░░░░░░░░░░░░░░░░░░░░░░  12.18 %</br>Markdown                 3 mins ██░░░░░░░░░░░░░░░░░░░░░░░   9.59 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,110 hrs 27 mins</br><strong>Timespan:           </strong>1079 days</br><strong>Daily average:      </strong>1 hr(s) 1 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Python                  24 mins ████████████████░░░░░░░░░  64.16 %</br>YAML                     5 mins ███░░░░░░░░░░░░░░░░░░░░░░  14.07 %</br>Bash                     4 mins ███░░░░░░░░░░░░░░░░░░░░░░  12.18 %</br>Markdown                 3 mins ██░░░░░░░░░░░░░░░░░░░░░░░   9.59 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,110 hrs 27 mins</br><strong>Timespan:           </strong>1080 days</br><strong>Daily average:      </strong>1 hr(s) 1 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
