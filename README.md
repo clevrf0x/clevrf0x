@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Dart                     0 secs ██████████████░░░░░░░░░░░  57.39 %</br>Docker                   0 secs ██████████░░░░░░░░░░░░░░░  42.61 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,110 hrs 29 mins</br><strong>Timespan:           </strong>1098 days</br><strong>Daily average:      </strong>1 hr(s) 0 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Dart                     0 secs ██████████████░░░░░░░░░░░  57.39 %</br>Docker                   0 secs ██████████░░░░░░░░░░░░░░░  42.61 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,110 hrs 29 mins</br><strong>Timespan:           </strong>1099 days</br><strong>Daily average:      </strong>1 hr(s) 0 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
