@@ -22,7 +22,7 @@
 <!-- <hr> -->
 <h2>⏰ WakaTime Stats</h2> 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Bash                    11 mins █████████████████████████ 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,119 hrs 45 mins</br><strong>Timespan:           </strong>1155 days</br><strong>Daily average:      </strong>0 hr(s) 58 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Bash                    11 mins █████████████████████████ 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,119 hrs 45 mins</br><strong>Timespan:           </strong>1156 days</br><strong>Daily average:      </strong>0 hr(s) 58 min(s)</pre>
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
